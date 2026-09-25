@@ -1,5 +1,4 @@
 # weather-data-dashboard
-# Weather Data Dashboard
 
 A Python-based weather dashboard that retrieves real-time weather data and a 7-day forecast for any city using the Open-Meteo API.
 
